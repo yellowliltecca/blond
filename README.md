@@ -20,6 +20,10 @@ Open the repository in Android Studio and sync Gradle. The project uses JDK 17, 
 
 On Windows, run `setup-gradle.bat` once to generate the Gradle wrapper, then run `build-debug.bat`.
 
+## Source code
+
+The Android Studio project is stored in `source/BLOND-Android-source.tar.gz`. Extract it to get the complete `BLOND-Android` project directory.
+
 ## Music catalog
 
 The prototype uses public Audius catalog endpoints for discovery and search. Availability and playback depend on Audius API and track-level rights/availability. Audius API access is not a blanket commercial music licence.
